@@ -1,0 +1,1893 @@
+1693507777117	geckodriver	INFO	Listening on 127.0.0.1:64258
+1693507780152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileH0zRCU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693507780608	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693507780710	Marionette	INFO	Listening on port 64269
+WebDriver BiDi listening on ws://127.0.0.1:64259
+Read port: 64269
+1693507780980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64259/devtools/browser/25de1d28-3b81-4b0e-a117-91e9e72f7aeb
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693507794622	Marionette	INFO	Stopped listening on port 64269
+Dynamically enable window occlusion 1
+1693509077160	geckodriver	INFO	Listening on 127.0.0.1:49154
+1693509080209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilejRMWzt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693509080543	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693509080620	Marionette	INFO	Listening on port 49170
+WebDriver BiDi listening on ws://127.0.0.1:49155
+Read port: 49170
+1693509080770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49155/devtools/browser/49b4b0e7-39c5-4b09-8d0d-d56fdf4c3f77
+1693509084899	Marionette	INFO	Stopped listening on port 49170
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693509136417	geckodriver	INFO	Listening on 127.0.0.1:49262
+1693509139490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49263" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileNOJHyR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693509139810	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693509139882	Marionette	INFO	Listening on port 49276
+WebDriver BiDi listening on ws://127.0.0.1:49263
+Read port: 49276
+1693509140082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49263/devtools/browser/df5546bc-ed89-4871-8f96-19a3b36af1aa
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693509153441	Marionette	INFO	Stopped listening on port 49276
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693509638792	geckodriver	INFO	Listening on 127.0.0.1:50675
+1693509641855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileg4CmdC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693509642152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693509642220	Marionette	INFO	Listening on port 50684
+WebDriver BiDi listening on ws://127.0.0.1:50676
+Read port: 50684
+1693509642446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50676/devtools/browser/eb6b6d24-29d3-45f2-ab0e-d8bb4768a57a
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693509655355	Marionette	INFO	Stopped listening on port 50684
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693509709022	geckodriver	INFO	Listening on 127.0.0.1:50760
+1693509712070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilePlM4s9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693509712344	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693509712406	Marionette	INFO	Listening on port 50768
+WebDriver BiDi listening on ws://127.0.0.1:50761
+Read port: 50768
+1693509712609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50761/devtools/browser/fdeea81f-ab2a-491d-9dd4-044bc5dabc72
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693509725851	Marionette	INFO	Stopped listening on port 50768
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693510377257	geckodriver	INFO	Listening on 127.0.0.1:51874
+1693510380310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileULIhCE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693510380662	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693510380747	Marionette	INFO	Listening on port 51882
+WebDriver BiDi listening on ws://127.0.0.1:51875
+Read port: 51882
+1693510381073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51875/devtools/browser/61971c68-e1e5-4562-b58c-7185a53e2e62
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693510395416	Marionette	INFO	Stopped listening on port 51882
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693510475920	geckodriver	INFO	Listening on 127.0.0.1:52041
+1693510478955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilemHU2QG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693510479243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693510479309	Marionette	INFO	Listening on port 52049
+WebDriver BiDi listening on ws://127.0.0.1:52042
+Read port: 52049
+1693510479517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52042/devtools/browser/4335ec52-d8e4-42a2-a0cf-ad709c3e5a2f
+1693510483783	Marionette	INFO	Stopped listening on port 52049
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693511280595	geckodriver	INFO	Listening on 127.0.0.1:52467
+1693511283644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileXPQ3TQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693511283936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693511284006	Marionette	INFO	Listening on port 52476
+WebDriver BiDi listening on ws://127.0.0.1:52468
+Read port: 52476
+1693511284218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52468/devtools/browser/a4812be6-4e5c-4d3e-a35b-a5977a0cf357
+1693511288800	Marionette	INFO	Stopped listening on port 52476
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693511441144	geckodriver	INFO	Listening on 127.0.0.1:52637
+1693511444180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilehJvytt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693511444457	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693511444539	Marionette	INFO	Listening on port 52645
+WebDriver BiDi listening on ws://127.0.0.1:52638
+Read port: 52645
+1693511444787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52638/devtools/browser/0ab42184-d994-4ed5-9b72-1ea52e775fc7
+1693511453289	Marionette	INFO	Stopped listening on port 52645
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693511511341	geckodriver	INFO	Listening on 127.0.0.1:52715
+1693511514401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52716" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilehLxIGc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693511514680	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693511514744	Marionette	INFO	Listening on port 52724
+WebDriver BiDi listening on ws://127.0.0.1:52716
+Read port: 52724
+1693511514948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52716/devtools/browser/bff9fe59-aa55-4bb9-8c72-f946df534dbc
+1693511522997	Marionette	INFO	Stopped listening on port 52724
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: Script terminated by timeout at:
+s.prototype.getSetting@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:3749
+@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:1263
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693511581906	geckodriver	INFO	Listening on 127.0.0.1:52825
+1693511584995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileg5oQmF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693511585274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693511585338	Marionette	INFO	Listening on port 52833
+WebDriver BiDi listening on ws://127.0.0.1:52826
+Read port: 52833
+1693511585543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52826/devtools/browser/dadcda5a-537a-410b-8648-77158f8e7ae7
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693511598575	Marionette	INFO	Stopped listening on port 52833
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693511685705	geckodriver	INFO	Listening on 127.0.0.1:52995
+1693511688752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileX5I5QU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693511689031	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693511689101	Marionette	INFO	Listening on port 53003
+WebDriver BiDi listening on ws://127.0.0.1:52996
+Read port: 53003
+1693511689312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52996/devtools/browser/be7ac96a-57d5-4efa-b044-f462d9f73260
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693511702258	Marionette	INFO	Stopped listening on port 53003
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693513443356	geckodriver	INFO	Listening on 127.0.0.1:54182
+1693513446413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilelVeU9y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693513446701	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693513446772	Marionette	INFO	Listening on port 54197
+WebDriver BiDi listening on ws://127.0.0.1:54183
+Read port: 54197
+1693513447032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54183/devtools/browser/96fa5f2f-9090-4025-8836-077cfa7158cf
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693513460495	Marionette	INFO	Stopped listening on port 54197
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693513527091	geckodriver	INFO	Listening on 127.0.0.1:54345
+1693513530154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54346" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileEDJ2UY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693513530454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693513530533	Marionette	INFO	Listening on port 54353
+WebDriver BiDi listening on ws://127.0.0.1:54346
+Read port: 54353
+1693513530803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54346/devtools/browser/a4ed5ede-c7d1-457e-8688-55d6dd14f374
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693513544962	Marionette	INFO	Stopped listening on port 54353
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: Script terminated by timeout at:
+@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:1442
+i@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:46541
+i@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:46599
+U.get/i/<@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:46744
+getData/i.oncomplete@https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js:1:45716
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693515098528	geckodriver	INFO	Listening on 127.0.0.1:55815
+1693515101571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofiledyw4uW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515101985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515102085	Marionette	INFO	Listening on port 55823
+WebDriver BiDi listening on ws://127.0.0.1:55816
+Read port: 55823
+1693515102351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55816/devtools/browser/95ebb2fa-46c7-49d5-8c6f-cd56db6448dd
+1693515107172	Marionette	INFO	Stopped listening on port 55823
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693515126842	geckodriver	INFO	Listening on 127.0.0.1:55890
+1693515129901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileYjHmdg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515130181	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515130249	Marionette	INFO	Listening on port 55899
+WebDriver BiDi listening on ws://127.0.0.1:55891
+Read port: 55899
+1693515130449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55891/devtools/browser/9e1e4d07-5449-44c4-8232-d0940fd2e2bd
+1693515135425	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135431	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135435	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135440	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135443	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135446	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135456	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135462	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515135467	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515142611	Marionette	INFO	Stopped listening on port 55899
+JavaScript warning: https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=42866dd2-4840-11ee-95e4-6753636d4962&v=&m=0, line 3: Script terminated by timeout at:
+@https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=42866dd2-4840-11ee-95e4-6753636d4962&v=&m=0:3:243828
+
+Dynamically enable window occlusion 1
+1693515152534	geckodriver	INFO	Listening on 127.0.0.1:55956
+1693515155584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofiles2UIIP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515155860	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515155925	Marionette	INFO	Listening on port 55964
+WebDriver BiDi listening on ws://127.0.0.1:55957
+Read port: 55964
+1693515156130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55957/devtools/browser/0467af5e-6ed0-4b05-ab4e-3d3f8e7c4e1f
+1693515159913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159917	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159920	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159927	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159940	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159945	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515159948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515167626	Marionette	INFO	Stopped listening on port 55964
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 3: Script terminated by timeout at:
+Qr@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15934
+wp/ci/<@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:75077
+ci@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:75122
+Ii@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:80423
+Sc@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:43899
+Ye@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:38448
+$r@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15123
+wp/gr/<@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15219
+gr@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15196
+
+Dynamically enable window occlusion 1
+1693515180960	geckodriver	INFO	Listening on 127.0.0.1:56022
+1693515183996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile4MZL9q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515184272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515184339	Marionette	INFO	Listening on port 56030
+WebDriver BiDi listening on ws://127.0.0.1:56023
+Read port: 56030
+1693515184550	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56023/devtools/browser/8fdad5a1-2607-4f7a-97d4-1bd48d5e3f39
+1693515188773	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188778	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188784	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188795	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188800	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188821	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515188828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+1693515199593	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199598	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199603	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199607	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199616	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199619	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199625	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199628	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515199665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515203435	Marionette	INFO	Stopped listening on port 56030
+JavaScript warning: https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=62e25d86-4840-11ee-9d06-457275746d43&v=&m=0, line 3: Script terminated by timeout at:
+@https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=62e25d86-4840-11ee-9d06-457275746d43&v=&m=0:3:243828
+
+Dynamically enable window occlusion 1
+1693515213562	geckodriver	INFO	Listening on 127.0.0.1:56095
+1693515216591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile41RYfB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515216869	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515216937	Marionette	INFO	Listening on port 56103
+WebDriver BiDi listening on ws://127.0.0.1:56096
+Read port: 56103
+1693515217146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56096/devtools/browser/0078544c-6a39-43d7-bde5-846ce178b45f
+1693515220952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220957	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220965	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220970	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220975	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220984	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220989	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515220995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515235657	Marionette	INFO	Stopped listening on port 56103
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Dd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:149993
+
+Dynamically enable window occlusion 1
+1693515249221	geckodriver	INFO	Listening on 127.0.0.1:56167
+1693515252274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56168" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile9QX6vC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515252556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515252620	Marionette	INFO	Listening on port 56175
+WebDriver BiDi listening on ws://127.0.0.1:56168
+Read port: 56175
+1693515252821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56168/devtools/browser/1ded6793-4ce8-4f2b-8f0a-5152c61dbb72
+1693515256624	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256644	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256650	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256656	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256665	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256676	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256683	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256692	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515256703	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515271273	Marionette	INFO	Stopped listening on port 56175
+Dynamically enable window occlusion 1
+1693515371860	geckodriver	INFO	Listening on 127.0.0.1:56594
+1693515374933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileCiAj8n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515375208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515375270	Marionette	INFO	Listening on port 56602
+WebDriver BiDi listening on ws://127.0.0.1:56595
+Read port: 56602
+1693515375572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56595/devtools/browser/a328dcb9-5ff6-495b-bee7-b0a1f6a4dd8c
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515401225	Marionette	INFO	Stopped listening on port 56602
+JavaScript warning: https://client.perimeterx.net/PXTU0h5FRQ/main.min.js, line 3: Script terminated by timeout at:
+a@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:22158
+Ud/<@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:2:148492
+d@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:2:4232
+i@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:2:3093
+Ud@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:2:148390
+bd/<@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:2:146578
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:415085
+
+Dynamically enable window occlusion 1
+1693515467000	geckodriver	INFO	Listening on 127.0.0.1:56854
+1693515470067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56855" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilefaGLIJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515470335	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515470396	Marionette	INFO	Listening on port 56862
+WebDriver BiDi listening on ws://127.0.0.1:56855
+Read port: 56862
+1693515470450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56855/devtools/browser/0b5603a0-2d03-401b-b19d-9607530bb559
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515483079	Marionette	INFO	Stopped listening on port 56862
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693515581664	geckodriver	INFO	Listening on 127.0.0.1:57130
+1693515584702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileXhgeaY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515584970	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515585032	Marionette	INFO	Listening on port 57138
+WebDriver BiDi listening on ws://127.0.0.1:57131
+Read port: 57138
+1693515585165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57131/devtools/browser/1df1fbd2-75d0-403f-be10-eb3f20b85db8
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515596290	Marionette	INFO	Stopped listening on port 57138
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693515611093	geckodriver	INFO	Listening on 127.0.0.1:57266
+1693515614150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileB30oqZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515614415	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515614477	Marionette	INFO	Listening on port 57274
+WebDriver BiDi listening on ws://127.0.0.1:57267
+Read port: 57274
+1693515614679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57267/devtools/browser/77e07ffd-966e-4e98-a7a9-2a8d64431a07
+1693515618543	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618546	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618550	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618554	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618558	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515618578	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515625766	Marionette	INFO	Stopped listening on port 57274
+Dynamically enable window occlusion 1
+1693515678995	geckodriver	INFO	Listening on 127.0.0.1:57847
+1693515682045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileTGh0vV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515682314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515682385	Marionette	INFO	Listening on port 57865
+WebDriver BiDi listening on ws://127.0.0.1:57848
+Read port: 57865
+1693515682616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57848/devtools/browser/e1f395c2-5f57-4e29-ac48-0a45c5eb0771
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515693725	Marionette	INFO	Stopped listening on port 57865
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693515727198	geckodriver	INFO	Listening on 127.0.0.1:58002
+1693515730252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilexZYBLX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515730516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515730576	Marionette	INFO	Listening on port 58010
+WebDriver BiDi listening on ws://127.0.0.1:58003
+Read port: 58010
+1693515730711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58003/devtools/browser/cc0f1170-7da5-4732-aec2-e9d63df41179
+1693515734194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734201	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734214	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734218	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734230	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515734234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515741971	Marionette	INFO	Stopped listening on port 58010
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+fm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10167
+
+Dynamically enable window occlusion 1
+1693515767843	geckodriver	INFO	Listening on 127.0.0.1:58360
+1693515770889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilel87Hqf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515771216	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515771285	Marionette	INFO	Listening on port 58383
+WebDriver BiDi listening on ws://127.0.0.1:58361
+Read port: 58383
+1693515771494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58361/devtools/browser/5842575f-8ba2-4097-8c94-95dcf06192b4
+1693515775157	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775180	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775186	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693515775194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515782754	Marionette	INFO	Stopped listening on port 58383
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Dd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:150113
+
+Dynamically enable window occlusion 1
+1693515853149	geckodriver	INFO	Listening on 127.0.0.1:58995
+1693515856208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile0JutyT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515856482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515856543	Marionette	INFO	Listening on port 59004
+Read port: 59004
+WebDriver BiDi listening on ws://127.0.0.1:58996
+1693515856601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58996/devtools/browser/43084ca1-9ba3-40d4-b369-3ca7bb55710d
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693515868098	Marionette	INFO	Stopped listening on port 59004
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693515993070	geckodriver	INFO	Listening on 127.0.0.1:59149
+1693515996134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilehEZ2l1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693515996402	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693515996463	Marionette	INFO	Listening on port 59158
+WebDriver BiDi listening on ws://127.0.0.1:59150
+Read port: 59158
+1693515996596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59150/devtools/browser/a281ed97-6a2c-451b-80a4-81991bc9c3bc
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693516007925	Marionette	INFO	Stopped listening on port 59158
+Dynamically enable window occlusion 1
+1693517399155	geckodriver	INFO	Listening on 127.0.0.1:62341
+1693517402203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile0Wf8sC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693517402466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693517402528	Marionette	INFO	Listening on port 62349
+Read port: 62349
+WebDriver BiDi listening on ws://127.0.0.1:62342
+1693517402581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62342/devtools/browser/36d767a1-8bfa-43ba-9f1f-d30a74ddf161
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693517413604	Marionette	INFO	Stopped listening on port 62349
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693517523915	geckodriver	INFO	Listening on 127.0.0.1:62493
+1693517526993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilepKVm9b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693517527260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693517527321	Marionette	INFO	Listening on port 62502
+WebDriver BiDi listening on ws://127.0.0.1:62494
+Read port: 62502
+1693517527512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62494/devtools/browser/46bf5d65-8783-4a81-88c9-72f6134a5e2c
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693517538397	Marionette	INFO	Stopped listening on port 62502
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693517664579	geckodriver	INFO	Listening on 127.0.0.1:62647
+1693517667628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62648" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileRKsaN3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693517667892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693517667953	Marionette	INFO	Listening on port 62657
+WebDriver BiDi listening on ws://127.0.0.1:62648
+Read port: 62657
+1693517668009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62648/devtools/browser/d4f23a9c-eb65-401e-9a07-b802d3715ddc
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693517679228	Marionette	INFO	Stopped listening on port 62657
+Dynamically enable window occlusion 1
+1693519420196	geckodriver	INFO	Listening on 127.0.0.1:63272
+1693519423242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileFE1RlL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693519423518	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693519423603	Marionette	INFO	Listening on port 63280
+WebDriver BiDi listening on ws://127.0.0.1:63273
+Read port: 63280
+1693519423856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63273/devtools/browser/dadcd4fc-8ce5-43af-be14-b5530c29a574
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693519435226	Marionette	INFO	Stopped listening on port 63280
+Dynamically enable window occlusion 1
+1693520099893	geckodriver	INFO	Listening on 127.0.0.1:63739
+1693520102930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile0dtz6X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520103194	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520103256	Marionette	INFO	Listening on port 63747
+WebDriver BiDi listening on ws://127.0.0.1:63740
+Read port: 63747
+1693520103444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63740/devtools/browser/386691b7-60f4-4e36-a7a3-9617bf87e875
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520114574	Marionette	INFO	Stopped listening on port 63747
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693520183293	geckodriver	INFO	Listening on 127.0.0.1:63885
+1693520186343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilekK8Y27"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520186620	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520186679	Marionette	INFO	Listening on port 63893
+WebDriver BiDi listening on ws://127.0.0.1:63886
+Read port: 63893
+1693520186878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63886/devtools/browser/06fc7789-5bc1-4e2b-ae00-f27bc604e06b
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520197744	Marionette	INFO	Stopped listening on port 63893
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693520244515	geckodriver	INFO	Listening on 127.0.0.1:64029
+1693520247582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileWvXbpE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520247844	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520247907	Marionette	INFO	Listening on port 64037
+WebDriver BiDi listening on ws://127.0.0.1:64030
+Read port: 64037
+1693520248035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64030/devtools/browser/97f861ab-f346-4d98-b6e3-477c49f9963d
+1693520251984	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520251988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520251991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520251996	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520251999	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520252005	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520252008	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520252012	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520252015	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520252020	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520259334	Marionette	INFO	Stopped listening on port 64037
+Dynamically enable window occlusion 1
+1693520300378	geckodriver	INFO	Listening on 127.0.0.1:64530
+1693520303418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilejR3ALU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520303772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520303857	Marionette	INFO	Listening on port 64547
+Read port: 64547
+WebDriver BiDi listening on ws://127.0.0.1:64531
+1693520303930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64531/devtools/browser/9c440e52-01b9-4c1e-9c01-f80bf473b0b1
+1693520308159	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308170	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308176	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308181	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308186	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308191	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308200	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520308207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520315793	Marionette	INFO	Stopped listening on port 64547
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Yd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:149123
+
+Dynamically enable window occlusion 1
+1693520330083	geckodriver	INFO	Listening on 127.0.0.1:64822
+1693520333145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileD4ZYOB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520333407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520333470	Marionette	INFO	Listening on port 64832
+WebDriver BiDi listening on ws://127.0.0.1:64823
+Read port: 64832
+1693520333609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64823/devtools/browser/bee0a3c9-3623-4c60-b321-86d8a4f86d59
+1693520337219	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337223	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337227	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337230	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337245	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337248	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337252	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337256	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520337260	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520344784	Marionette	INFO	Stopped listening on port 64832
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 3: Script terminated by timeout at:
+value@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:76885
+value@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:77499
+si@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:79126
+Ii@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:80445
+Sc@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:43899
+Ye@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:38448
+$r@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15123
+_p/gr/<@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15219
+gr@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15196
+
+Dynamically enable window occlusion 1
+1693520354062	geckodriver	INFO	Listening on 127.0.0.1:64896
+1693520357128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileTcLd0X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520357391	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520357454	Marionette	INFO	Listening on port 64906
+WebDriver BiDi listening on ws://127.0.0.1:64897
+Read port: 64906
+1693520357647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64897/devtools/browser/2d3227c7-8842-4509-962b-e0c2c9bcb6ce
+1693520361142	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361146	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361150	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361155	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361159	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361162	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361173	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361176	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520361179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520368732	Marionette	INFO	Stopped listening on port 64906
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Yd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:149123
+
+Dynamically enable window occlusion 1
+1693520394956	geckodriver	INFO	Listening on 127.0.0.1:64963
+1693520398015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64964" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileWDCaJH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693520398269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693520398331	Marionette	INFO	Listening on port 64971
+WebDriver BiDi listening on ws://127.0.0.1:64964
+Read port: 64971
+1693520398524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64964/devtools/browser/79f5b2a2-25f1-4c81-b754-2c7108b42eeb
+1693520402083	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402091	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402095	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402099	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402103	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402107	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402111	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402113	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402117	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693520402122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693520409603	Marionette	INFO	Stopped listening on port 64971
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Yd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:149123
+
+Dynamically enable window occlusion 1
+1693525273355	geckodriver	INFO	Listening on 127.0.0.1:50097
+1693525276404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileeZgH8M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525276673	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525276732	Marionette	INFO	Listening on port 50105
+WebDriver BiDi listening on ws://127.0.0.1:50098
+Read port: 50105
+1693525276866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50098/devtools/browser/b1aebb09-7733-4d19-8dae-f180b79490d9
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525292930	Marionette	INFO	Stopped listening on port 50105
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693525411994	geckodriver	INFO	Listening on 127.0.0.1:50249
+1693525415037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileRax9Yk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525415306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525415369	Marionette	INFO	Listening on port 50257
+WebDriver BiDi listening on ws://127.0.0.1:50250
+Read port: 50257
+1693525415500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50250/devtools/browser/2690895e-c16b-4a88-a126-831dbbbbff7c
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525431011	Marionette	INFO	Stopped listening on port 50257
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693525452526	geckodriver	INFO	Listening on 127.0.0.1:50378
+1693525455597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile66z9YR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525455862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525455922	Marionette	INFO	Listening on port 50386
+WebDriver BiDi listening on ws://127.0.0.1:50379
+Read port: 50386
+1693525456057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50379/devtools/browser/5a1797f7-98ba-486e-b026-9874fcbe5ad4
+1693525460190	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460198	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460201	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460211	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460214	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460218	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525460225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525467595	Marionette	INFO	Stopped listening on port 50386
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 3: Script terminated by timeout at:
+Qr@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15891
+Tp/ci/<@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:75153
+ci@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:75286
+Ii@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:80423
+Sc@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:43899
+wc@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:41262
+$r@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15123
+Tp/gr/<@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15219
+gr@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15196
+
+Dynamically enable window occlusion 1
+1693525698042	geckodriver	INFO	Listening on 127.0.0.1:50865
+1693525701109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileji2rVw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525701384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525701448	Marionette	INFO	Listening on port 50873
+WebDriver BiDi listening on ws://127.0.0.1:50866
+Read port: 50873
+1693525701649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50866/devtools/browser/090625da-dde8-4a78-a28d-0b5ce20ba7dd
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525717923	Marionette	INFO	Stopped listening on port 50873
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693525800209	geckodriver	INFO	Listening on 127.0.0.1:51030
+1693525803271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileQ8YSuT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525803540	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525803603	Marionette	INFO	Listening on port 51038
+WebDriver BiDi listening on ws://127.0.0.1:51031
+Read port: 51038
+1693525803731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51031/devtools/browser/88e86165-adaa-4dc1-a637-6a8fd1b3cec0
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525819473	Marionette	INFO	Stopped listening on port 51038
+Dynamically enable window occlusion 1
+1693525844559	geckodriver	INFO	Listening on 127.0.0.1:51170
+1693525847610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileZKBgRX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525847886	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525847945	Marionette	INFO	Listening on port 51178
+Read port: 51178
+WebDriver BiDi listening on ws://127.0.0.1:51171
+1693525848003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51171/devtools/browser/aeb00841-0337-47ae-a085-95f5da5dcc46
+1693525851584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851587	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851591	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851597	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851600	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851612	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851620	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525851624	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525859314	Marionette	INFO	Stopped listening on port 51178
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+dm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10624
+
+Dynamically enable window occlusion 1
+1693525936831	geckodriver	INFO	Listening on 127.0.0.1:51242
+1693525939866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileCngUfN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525940129	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525940189	Marionette	INFO	Listening on port 51250
+WebDriver BiDi listening on ws://127.0.0.1:51243
+Read port: 51250
+1693525940362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51243/devtools/browser/5cd7872d-f4cb-4a4b-b692-0d96e05db5d2
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525955335	Marionette	INFO	Stopped listening on port 51250
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693525976776	geckodriver	INFO	Listening on 127.0.0.1:51380
+1693525979829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileyN9n1U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693525980112	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693525980175	Marionette	INFO	Listening on port 51389
+WebDriver BiDi listening on ws://127.0.0.1:51381
+Read port: 51389
+1693525980384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51381/devtools/browser/dd2e1d4b-ca6e-48a9-b3fe-76f7da653093
+1693525983898	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983905	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983912	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983917	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983920	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983926	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983930	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693525983935	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693525991636	Marionette	INFO	Stopped listening on port 51389
+Dynamically enable window occlusion 1
+1693526074804	geckodriver	INFO	Listening on 127.0.0.1:52493
+1693526077875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileprjg7p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693526078148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693526078210	Marionette	INFO	Listening on port 52504
+WebDriver BiDi listening on ws://127.0.0.1:52494
+Read port: 52504
+1693526078406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52494/devtools/browser/1c62b2c2-0baf-414c-b150-4afeef942fa2
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693526093903	Marionette	INFO	Stopped listening on port 52504
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693526254794	geckodriver	INFO	Listening on 127.0.0.1:52653
+1693526257855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileFucCdn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693526258129	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693526258191	Marionette	INFO	Listening on port 52661
+Read port: 52661
+WebDriver BiDi listening on ws://127.0.0.1:52654
+1693526258247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52654/devtools/browser/648f1a9c-1131-4020-b5b4-d717b96d1d20
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693526274315	Marionette	INFO	Stopped listening on port 52661
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693531729873	geckodriver	INFO	Listening on 127.0.0.1:54277
+1693531732908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilelXkVjD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693531733186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693531733251	Marionette	INFO	Listening on port 54285
+WebDriver BiDi listening on ws://127.0.0.1:54278
+Read port: 54285
+1693531733448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54278/devtools/browser/f565c4ee-c549-40eb-ac01-c3a7edd331b9
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693531744940	Marionette	INFO	Stopped listening on port 54285
+Dynamically enable window occlusion 1
+1693531940860	geckodriver	INFO	Listening on 127.0.0.1:54502
+1693531943920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileVo5mcL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693531944186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693531944257	Marionette	INFO	Listening on port 54510
+Read port: 54510
+WebDriver BiDi listening on ws://127.0.0.1:54503
+1693531944314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54503/devtools/browser/2b5f5500-ed93-45e4-ad51-36795d4e3d6a
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693531953016	Marionette	INFO	Stopped listening on port 54510
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Dynamically enable window occlusion 1
+1693532179292	geckodriver	INFO	Listening on 127.0.0.1:54996
+1693532182343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileXCraxy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693532182615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693532182676	Marionette	INFO	Listening on port 55011
+WebDriver BiDi listening on ws://127.0.0.1:54997
+Read port: 55011
+1693532182867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54997/devtools/browser/f590383d-7d0f-487f-952b-37ca1940b866
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693532192315	Marionette	INFO	Stopped listening on port 55011
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693532210162	geckodriver	INFO	Listening on 127.0.0.1:55103
+1693532213214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofiletGZwZZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693532213488	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693532213552	Marionette	INFO	Listening on port 55111
+Read port: 55111
+WebDriver BiDi listening on ws://127.0.0.1:55104
+1693532213607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55104/devtools/browser/ae60410b-7ef0-4172-9ddd-d44a3cd3406e
+1693532217355	Marionette	INFO	Stopped listening on port 55111
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693532238091	geckodriver	INFO	Listening on 127.0.0.1:55160
+1693532241133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilexXcShI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693532241396	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693532241458	Marionette	INFO	Listening on port 55168
+WebDriver BiDi listening on ws://127.0.0.1:55161
+Read port: 55168
+1693532241595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55161/devtools/browser/4ef57838-da2c-4c12-9881-542da22a9237
+1693532245109	Marionette	INFO	Stopped listening on port 55168
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693545231451	geckodriver	INFO	Listening on 127.0.0.1:58789
+1693545234528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileHU1XCM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545234963	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545235056	Marionette	INFO	Listening on port 58799
+WebDriver BiDi listening on ws://127.0.0.1:58790
+Read port: 58799
+1693545235312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58790/devtools/browser/f5634566-428b-4559-87bf-cd2c81a578ee
+1693545239154	Marionette	INFO	Stopped listening on port 58799
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693545280822	geckodriver	INFO	Listening on 127.0.0.1:58876
+1693545283875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile0HVVm5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545284138	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545284200	Marionette	INFO	Listening on port 58884
+WebDriver BiDi listening on ws://127.0.0.1:58877
+Read port: 58884
+1693545284337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58877/devtools/browser/28ba8500-a904-4aa0-9e90-240800db5229
+1693545287966	Marionette	INFO	Stopped listening on port 58884
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693545482269	geckodriver	INFO	Listening on 127.0.0.1:59099
+1693545485291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileIQZLIR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545485560	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545485622	Marionette	INFO	Listening on port 59110
+WebDriver BiDi listening on ws://127.0.0.1:59100
+Read port: 59110
+1693545485778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59100/devtools/browser/7b652abb-7e1a-45d0-830f-e2660cbc0478
+1693545491582	Marionette	INFO	Stopped listening on port 59110
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1693545542411	geckodriver	INFO	Listening on 127.0.0.1:59214
+1693545545469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileR9FCTj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545545744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545545809	Marionette	INFO	Listening on port 59223
+WebDriver BiDi listening on ws://127.0.0.1:59215
+Read port: 59223
+1693545546005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59215/devtools/browser/2a29891b-6a11-48cc-bf0b-9fa380438939
+1693545549154	Marionette	INFO	Stopped listening on port 59223
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693545570535	geckodriver	INFO	Listening on 127.0.0.1:59281
+1693545573596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileqgD2yB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545573858	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545573919	Marionette	INFO	Listening on port 59291
+WebDriver BiDi listening on ws://127.0.0.1:59282
+Read port: 59291
+1693545574052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59282/devtools/browser/9b884a4c-2591-4ff5-8ddc-20eec1b9887c
+1693545578912	Marionette	INFO	Stopped listening on port 59291
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1693545683334	geckodriver	INFO	Listening on 127.0.0.1:59420
+1693545686385	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilerjRLFa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545686649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545686712	Marionette	INFO	Listening on port 59430
+WebDriver BiDi listening on ws://127.0.0.1:59421
+Read port: 59430
+1693545686893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59421/devtools/browser/331d28f2-06d9-4714-9878-a83836eb7ef3
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693545694800	Marionette	INFO	Stopped listening on port 59430
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693545761568	geckodriver	INFO	Listening on 127.0.0.1:59554
+1693545764630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileFUdYSd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545764894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545764954	Marionette	INFO	Listening on port 59563
+Read port: 59563
+WebDriver BiDi listening on ws://127.0.0.1:59555
+1693545765009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59555/devtools/browser/5d32e935-7043-48fa-ac02-9a3f5d3c7320
+1693545768061	Marionette	INFO	Stopped listening on port 59563
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693545839267	geckodriver	INFO	Listening on 127.0.0.1:59671
+1693545842304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59672" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileGTSdb0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545842568	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545842632	Marionette	INFO	Listening on port 59681
+WebDriver BiDi listening on ws://127.0.0.1:59672
+Read port: 59681
+1693545842829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59672/devtools/browser/3c1cc186-f843-4966-a02d-0b487da805e2
+1693545846367	Marionette	INFO	Stopped listening on port 59681
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693545924871	geckodriver	INFO	Listening on 127.0.0.1:59803
+1693545927929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofiletGdWXK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545928189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545928248	Marionette	INFO	Listening on port 59813
+WebDriver BiDi listening on ws://127.0.0.1:59804
+Read port: 59813
+1693545928428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59804/devtools/browser/e6dd2410-29fd-4a76-b5e7-f5b3cc5a3fae
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693545936698	Marionette	INFO	Stopped listening on port 59813
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693545987274	geckodriver	INFO	Listening on 127.0.0.1:59936
+1693545990333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile6HYUZb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693545990607	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693545990668	Marionette	INFO	Listening on port 59945
+WebDriver BiDi listening on ws://127.0.0.1:59937
+Read port: 59945
+1693545990799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59937/devtools/browser/49840f7f-98a4-418a-83a8-327fd104adb0
+1693545994542	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994546	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994551	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994555	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994557	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693545994577	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693545999183	Marionette	INFO	Stopped listening on port 59945
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Yd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:149921
+
+Dynamically enable window occlusion 1
+1693546020156	geckodriver	INFO	Listening on 127.0.0.1:60019
+1693546023194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60020" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile6ctn8S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546023467	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546023530	Marionette	INFO	Listening on port 60031
+WebDriver BiDi listening on ws://127.0.0.1:60020
+Read port: 60031
+1693546023722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60020/devtools/browser/42448e3b-479a-49cd-9289-834dce4079cb
+1693546027280	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027284	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027292	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027299	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027303	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027306	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546027316	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546031998	Marionette	INFO	Stopped listening on port 60031
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+Sm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10199
+gm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10269
+
+Dynamically enable window occlusion 1
+1693546044691	geckodriver	INFO	Listening on 127.0.0.1:60098
+1693546047735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileXOoPZH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546048001	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546048063	Marionette	INFO	Listening on port 60107
+WebDriver BiDi listening on ws://127.0.0.1:60099
+Read port: 60107
+1693546048192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60099/devtools/browser/65e56eee-2b6d-43f5-9571-30de5d44742f
+1693546052000	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052006	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052010	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052014	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052019	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052023	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052026	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052032	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546052038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546056708	Marionette	INFO	Stopped listening on port 60107
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+Sm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10199
+gm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10269
+
+Dynamically enable window occlusion 1
+1693546067823	geckodriver	INFO	Listening on 127.0.0.1:60171
+1693546070854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileYRcLOJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546071119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546071180	Marionette	INFO	Listening on port 60181
+WebDriver BiDi listening on ws://127.0.0.1:60172
+Read port: 60181
+1693546071316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60172/devtools/browser/822a0f42-0e6d-400e-931a-a364379be4c0
+1693546075022	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075026	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075035	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075039	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075043	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075049	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075058	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546075075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546079712	Marionette	INFO	Stopped listening on port 60181
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: Script terminated by timeout at:
+Yd@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:2:149921
+
+Dynamically enable window occlusion 1
+1693546222300	geckodriver	INFO	Listening on 127.0.0.1:60328
+1693546225368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileiLkkTA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546225632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546225692	Marionette	INFO	Listening on port 60338
+WebDriver BiDi listening on ws://127.0.0.1:60329
+Read port: 60338
+1693546225823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60329/devtools/browser/dafac33f-2e51-484f-a11a-f378eb6ea2bc
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546233909	Marionette	INFO	Stopped listening on port 60338
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546405735	geckodriver	INFO	Listening on 127.0.0.1:60604
+1693546408768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilefEIIav"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546409035	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546409097	Marionette	INFO	Listening on port 60613
+WebDriver BiDi listening on ws://127.0.0.1:60605
+Read port: 60613
+1693546409227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60605/devtools/browser/6da79ac2-3536-4447-96d0-5513ff12bd89
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546425555	Marionette	INFO	Stopped listening on port 60613
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693546553267	geckodriver	INFO	Listening on 127.0.0.1:61359
+1693546556305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61360" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileRJvHfQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546556627	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546556705	Marionette	INFO	Listening on port 61370
+WebDriver BiDi listening on ws://127.0.0.1:61360
+Read port: 61370
+1693546556965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61360/devtools/browser/8618d33d-eb31-4475-b0f2-f560d3cc1564
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546568765	Marionette	INFO	Stopped listening on port 61370
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693546608500	geckodriver	INFO	Listening on 127.0.0.1:61678
+1693546611561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileTj52h7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546611855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546611925	Marionette	INFO	Listening on port 61692
+WebDriver BiDi listening on ws://127.0.0.1:61679
+Read port: 61692
+1693546612139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61679/devtools/browser/312add92-1687-4249-808d-a3664a228557
+1693546617292	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617317	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617325	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617332	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617337	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617356	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546617365	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546621536	Marionette	INFO	Stopped listening on port 61692
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+$p@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:9345
+hm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10743
+
+Dynamically enable window occlusion 1
+1693546707929	geckodriver	INFO	Listening on 127.0.0.1:62672
+1693546710986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile5niIyp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546711255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546711315	Marionette	INFO	Listening on port 62682
+WebDriver BiDi listening on ws://127.0.0.1:62673
+Read port: 62682
+1693546711512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62673/devtools/browser/13e6efeb-9276-4822-a65d-d61de545066b
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.abcmouse.com."
+1693546723848	Marionette	INFO	Stopped listening on port 62682
+JavaScript warning: https://client.perimeterx.net/PXTU0h5FRQ/main.min.js, line 3: Script terminated by timeout at:
+n@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:89
+Ut@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:23451
+o@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:70409
+Ap/Va/<@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:70881
+Va@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:70921
+_a@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:72418
+Ap/gi/<@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:80083
+gi@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:80152
+Ai@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:80321
+Ap/ai/</<@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:75809
+Ap/ai/<@https://client.perimeterx.net/PXTU0h5FRQ/main.min.js:3:75863
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:415085
+
+Dynamically enable window occlusion 1
+1693546769698	geckodriver	INFO	Listening on 127.0.0.1:62840
+1693546772756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62841" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileACvdbE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546773024	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546773085	Marionette	INFO	Listening on port 62850
+WebDriver BiDi listening on ws://127.0.0.1:62841
+Read port: 62850
+1693546773216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62841/devtools/browser/5a224e6e-5dba-478c-a035-5d71d872f472
+1693546776718	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776722	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776725	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776729	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776733	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776737	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776744	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693546776754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546781439	Marionette	INFO	Stopped listening on port 62850
+JavaScript warning: https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=ee62be40-4889-11ee-b2c5-437648756a51&v=&m=0, line 3: Script terminated by timeout at:
+@https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=ee62be40-4889-11ee-b2c5-437648756a51&v=&m=0:3:243828
+
+Dynamically enable window occlusion 1
+1693546863640	geckodriver	INFO	Listening on 127.0.0.1:63021
+1693546866700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63022" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilesGSz6j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546866964	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546867025	Marionette	INFO	Listening on port 63031
+WebDriver BiDi listening on ws://127.0.0.1:63022
+Read port: 63031
+1693546867223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63022/devtools/browser/438c1648-1d2e-423c-9234-a008466b4c90
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.abcmouse.com."
+1693546878776	Marionette	INFO	Stopped listening on port 63031
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693546931220	geckodriver	INFO	Listening on 127.0.0.1:63194
+1693546934281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilesL14XM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693546934547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693546934609	Marionette	INFO	Listening on port 63203
+WebDriver BiDi listening on ws://127.0.0.1:63195
+Read port: 63203
+1693546934808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63195/devtools/browser/4a9bdda4-a9e5-4e88-b977-2495c0001345
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693546950228	Marionette	INFO	Stopped listening on port 63203
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693547044881	geckodriver	INFO	Listening on 127.0.0.1:63401
+1693547047923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileH7xCHE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693547048199	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693547048259	Marionette	INFO	Listening on port 63412
+Read port: 63412
+WebDriver BiDi listening on ws://127.0.0.1:63402
+1693547048314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63402/devtools/browser/43557c5b-c6fc-420a-bea5-22068d7cdd15
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.abcmouse.com."
+1693547059947	Marionette	INFO	Stopped listening on port 63412
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693547086971	geckodriver	INFO	Listening on 127.0.0.1:63552
+1693547090010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilepASB1a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693547090273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693547090335	Marionette	INFO	Listening on port 63561
+WebDriver BiDi listening on ws://127.0.0.1:63553
+Read port: 63561
+1693547090467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63553/devtools/browser/2274ada3-9a87-4a82-be07-54d0bac503c5
+1693547094309	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094315	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094326	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094330	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094338	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547094346	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693547099039	Marionette	INFO	Stopped listening on port 63561
+JavaScript warning: https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=abb12771-488a-11ee-bb13-457275746d43&v=&m=0, line 3: Script terminated by timeout at:
+@https://captcha.px-cdn.net/PXTU0h5FRQ/captcha.js?a=c&u=abb12771-488a-11ee-bb13-457275746d43&v=&m=0:3:243828
+
+Dynamically enable window occlusion 1
+1693547106602	geckodriver	INFO	Listening on 127.0.0.1:63619
+1693547109665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63620" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilejGjl70"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693547109929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693547109991	Marionette	INFO	Listening on port 63629
+WebDriver BiDi listening on ws://127.0.0.1:63620
+Read port: 63629
+1693547110128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63620/devtools/browser/c4442d7f-40dc-4e15-9b2b-994607d761c2
+1693547114070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114078	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114081	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114088	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114092	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114095	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114099	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114102	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547114108	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693547118776	Marionette	INFO	Stopped listening on port 63629
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+$p@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:9345
+hm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10743
+
+Dynamically enable window occlusion 1
+1693547260214	geckodriver	INFO	Listening on 127.0.0.1:63956
+1693547263258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilewPbxzU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693547263547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693547263615	Marionette	INFO	Listening on port 63967
+WebDriver BiDi listening on ws://127.0.0.1:63957
+Read port: 63967
+1693547263823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63957/devtools/browser/24bcc551-6237-467e-b919-1588e71760ec
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.abcmouse.com."
+1693547275665	Marionette	INFO	Stopped listening on port 63967
+JavaScript warning: https://analytics.tiktok.com/i18n/pixel/static/main.MTE4Nzk5OTU3MQ.js, line 1: Script terminated by timeout at:
+o.r@https://analytics.tiktok.com/i18n/pixel/static/main.MTE4Nzk5OTU3MQ.js:1:320
+ranp@https://analytics.tiktok.com/i18n/pixel/static/main.MTE4Nzk5OTU3MQ.js:1:15481
+o@https://analytics.tiktok.com/i18n/pixel/static/main.MTE4Nzk5OTU3MQ.js:1:110
+@https://analytics.tiktok.com/i18n/pixel/static/main.MTE4Nzk5OTU3MQ.js:1:945
+@https://analytics.tiktok.com/i18n/pixel/static/main.MTE4Nzk5OTU3MQ.js:1:959
+
+Dynamically enable window occlusion 1
+1693547308116	geckodriver	INFO	Listening on 127.0.0.1:64124
+1693547311193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofile9e4s4o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693547311466	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693547311526	Marionette	INFO	Listening on port 64136
+WebDriver BiDi listening on ws://127.0.0.1:64125
+Read port: 64136
+1693547311584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64125/devtools/browser/ad1cbaaa-04b4-4f5e-ab2d-7415894cba7f
+1693547315568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315572	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315576	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315591	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315596	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315601	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547315605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693547320119	Marionette	INFO	Stopped listening on port 64136
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 3: Script terminated by timeout at:
+Ap/Ar/f<@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:3:15311
+
+Dynamically enable window occlusion 1
+1693547332217	geckodriver	INFO	Listening on 127.0.0.1:64204
+1693547335255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofileI0id9F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693547335522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693547335585	Marionette	INFO	Listening on port 64216
+WebDriver BiDi listening on ws://127.0.0.1:64205
+Read port: 64216
+1693547335725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64205/devtools/browser/58a13e79-1be9-419c-9f66-8221c8aeb4ac
+1693547339258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339263	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339267	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339285	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339296	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1693547339300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693547343979	Marionette	INFO	Stopped listening on port 64216
+JavaScript warning: https://client.px-cloud.net/PXTU0h5FRQ/main.min.js, line 4: Script terminated by timeout at:
+$p@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:9345
+hm@https://client.px-cloud.net/PXTU0h5FRQ/main.min.js:4:10743
+
+Dynamically enable window occlusion 1
+1693585517050	geckodriver	INFO	Listening on 127.0.0.1:52590
+1693585520121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilelBj8gs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693585520413	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693585520475	Marionette	INFO	Listening on port 52605
+WebDriver BiDi listening on ws://127.0.0.1:52591
+Read port: 52605
+1693585520673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52591/devtools/browser/52e5e99b-14b8-4ca9-912f-72f125c3c72d
+1693585524640	Marionette	INFO	Stopped listening on port 52605
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.sys.mjs, line 229: TypeError: NetworkError: Network request failed
+1693585603894	geckodriver	INFO	Listening on 127.0.0.1:52771
+1693585606966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilevvZvEf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693585607231	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693585607299	Marionette	INFO	Listening on port 52780
+Read port: 52780
+WebDriver BiDi listening on ws://127.0.0.1:52772
+1693585607358	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52772/devtools/browser/68d61879-5fa8-41ab-9e3f-c97a4624def2
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1693585615843	Marionette	INFO	Stopped listening on port 52780
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 25: Script terminated by timeout at:
+qa@https://connect.facebook.net/en_US/fbevents.js:25:63784
+ra@https://connect.facebook.net/en_US/fbevents.js:25:63984
+k.exports</W<@https://connect.facebook.net/en_US/fbevents.js:25:64918
+k.exports</a.exports/<@https://connect.facebook.net/en_US/fbevents.js:25:17211
+k.exports<@https://connect.facebook.net/en_US/fbevents.js:25:64778
+c@https://connect.facebook.net/en_US/fbevents.js:25:10965
+k.exports<@https://connect.facebook.net/en_US/fbevents.js:25:37628
+c@https://connect.facebook.net/en_US/fbevents.js:25:10965
+k.exports<@https://connect.facebook.net/en_US/fbevents.js:25:11884
+@https://connect.facebook.net/en_US/fbevents.js:25:11894
+@https://connect.facebook.net/en_US/fbevents.js:25:71612
+@https://connect.facebook.net/en_US/fbevents.js:25:71632
+f.getFbeventsModules@https://connect.facebook.net/en_US/fbevents.js:24:2534
+@https://connect.facebook.net/en_US/fbevents.js:25:4875
+@https://connect.facebook.net/en_US/fbevents.js:25:5747
+@https://connect.facebook.net/en_US/fbevents.js:25:5767
+f.getFbeventsModules@https://connect.facebook.net/en_US/fbevents.js:24:2534
+@https://connect.facebook.net/en_US/fbevents.js:25:9287
+@https://connect.facebook.net/en_US/fbevents.js:25:9660
+@https://connect.facebook.net/en_US/fbevents.js:25:9680
+f.getFbeventsModules@https://connect.facebook.net/en_US/fbevents.js:24:2534
+@https://connect.facebook.net/en_US/fbevents.js:25:75163
+@https://connect.facebook.net/en_US/fbevents.js:25:78942
+@https://connect.facebook.net/en_US/fbevents.js:25:78962
+f.getFbeventsModules@https://connect.facebook.net/en_US/fbevents.js:24:2534
+@https://connect.facebook.net/en_US/fbevents.js:25:79311
+@https://connect.facebook.net/en_US/fbevents.js:25:80433
+@https://connect.facebook.net/en_US/fbevents.js:25:80453
+f.getFbeventsModules@https://connect.facebook.net/en_US/fbevents.js:24:2534
+@https://connect.facebook.net/en_US/fbevents.js:25:80477
+@https://connect.facebook.net/en_US/fbevents.js:25:80690
+@https://connect.facebook.net/en_US/fbevents.js:25:80694
+
+Dynamically enable window occlusion 1
+1693585664171	geckodriver	INFO	Listening on 127.0.0.1:52896
+1693585667220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilefkR9NW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693585667490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693585667553	Marionette	INFO	Listening on port 52913
+WebDriver BiDi listening on ws://127.0.0.1:52897
+Read port: 52913
+1693585667745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52897/devtools/browser/1ee60b09-e7c3-4314-8611-2173124adbee
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.abcmouse.com."
+1693585685170	Marionette	INFO	Stopped listening on port 52913
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
+1693585783016	geckodriver	INFO	Listening on 127.0.0.1:53100
+1693585786074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nate6\\AppData\\Local\\Temp\\rust_mozprofilefwiPXz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693585786339	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693585786402	Marionette	INFO	Listening on port 53109
+WebDriver BiDi listening on ws://127.0.0.1:53101
+Read port: 53109
+1693585786532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53101/devtools/browser/f10eb8fc-0b3c-49ae-88ac-ea21915beac0
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://d38xvr37kwwhcm.cloudfront.net/js/grin-sdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.abcmouse.com."
+1693585803810	Marionette	INFO	Stopped listening on port 53109
+JavaScript warning: https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js, line 2: Script terminated by timeout at:
+r@https://www.abcmouse.com/abc/main-8db8845aa7d4237dbfbf.js:2:414891
+
+Dynamically enable window occlusion 1
